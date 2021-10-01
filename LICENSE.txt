@@ -1,0 +1,2 @@
+Git status
+Git diff
